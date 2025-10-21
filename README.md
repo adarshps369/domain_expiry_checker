@@ -1,0 +1,1 @@
+Small CLI tool that queries RDAP (rdap.org) for a domain's expiration date, caches the date, computes days left, and exits with Nagios-style status codes (OK/WARNING/CRITICAL/UNKNOWN).
