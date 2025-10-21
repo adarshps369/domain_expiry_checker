@@ -7,7 +7,7 @@ import time
 from datetime import datetime
 
 CACHE_DIR = "/tmp/check_domain_cache"
-CACHE_AGE = 8 * 3600  # 1 day in seconds
+CACHE_AGE = 8 * 3600  # 8 hours in seconds
 
 STATE_OK = 0
 STATE_WARNING = 1
